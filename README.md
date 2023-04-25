@@ -14,5 +14,8 @@ take two variables front and rear both of which will be initialized to 0 which m
 ![image](https://user-images.githubusercontent.com/124968304/234173239-9b9e5faf-1abd-4e3b-96ae-25d3157c1363.png)<br>
 <br>
 <b><ins>Output</b></ins><br>
+<img width="599" alt="Queue using array" src="https://user-images.githubusercontent.com/124968304/234174335-054ac4ef-8089-4d7d-a9d7-3bb24d72702d.png">
+
+
 
 
