@@ -11,5 +11,8 @@ take two variables front and rear both of which will be initialized to 0 which m
 <b><ins>Dequeue:</b></ins> Removal of an element from the queue. An element can only be deleted when there is at least an element to delete i.e. rear > 0. Now, the element at arr[front] can be deleted but all the remaining elements have to shift to the left by one position in order for the dequeue operation to delete the second element from the left on another dequeue operation.<br>
 <b><ins>Front:</b></ins> Get the front element from the queue i.e. arr[front] if the queue is not empty.<br>
 <b><ins>Display:</b></ins> Print all elements of the queue. If the queue is non-empty, traverse and print all the elements from the index front to rear.<br>
-![image](https://user-images.githubusercontent.com/124968304/234173239-9b9e5faf-1abd-4e3b-96ae-25d3157c1363.png)
+![image](https://user-images.githubusercontent.com/124968304/234173239-9b9e5faf-1abd-4e3b-96ae-25d3157c1363.png)<br>
+<br>
+<b><ins>Output</b></ins><br>
+
 
